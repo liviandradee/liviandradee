@@ -27,10 +27,12 @@
 
 
 
-#
-<div align="center"> 
-<img align="center" alt="" height="190px" src="./src/0305354667a7acce09831e8d1dd38b21.gif">
-<h2 align="center"> Contato:</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFF&center=true&vCenter=true&random=false&width=524&lines=Contato" alt="Typing SVG">
+  </a>
+
+
   <a href="mailto:annalivdeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -59,8 +61,13 @@
 #
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFF&center=true&vCenter=true&random=false&width=524&lines=Contador+de+visitas" alt="Typing SVG">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{liviandradee}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
+
+
+
+
