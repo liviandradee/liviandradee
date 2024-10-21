@@ -31,8 +31,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFF&center=true&vCenter=true&random=false&width=524&lines=Contato" alt="Typing SVG">
   </a>
-
-
+  <div align="center">
   <a href="mailto:annalivdeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -40,8 +39,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   </a>
+  </div>
 </div>
-
 #
 
 
